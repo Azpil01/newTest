@@ -1,2 +1,2 @@
 This is some other text
-Testgit a
+Testgit
